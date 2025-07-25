@@ -1,15 +1,9 @@
 # is-gamora
 
-To install dependencies:
+You can now run [bun why](https://bun.sh/docs/cli/why) to check why a package is installed.
+
+If you have this package installed, you can run:
 
 ```bash
-bun install
+bun why is-gamora
 ```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.19. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
